@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: urb3f1rh8-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/urb3f1rh8-python
